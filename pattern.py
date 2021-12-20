@@ -4,3 +4,6 @@ for i in range(n):
         print("*",end=' ')
     print()
 print() 
+
+
+print("hello")
